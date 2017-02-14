@@ -16,6 +16,16 @@ public class App {
 			denominator = denominator + 2;
 		}
 		pi = pi * 4;
+		
+		if (1 == 1) {
+			if (2 == 2) {
+				if (3 ==3 ) {
+					if (4 == 4) {
+						System.out.println("Refactor me");
+					}	
+				}	
+			}
+		}	
 
 		return pi;
 	}
