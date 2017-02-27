@@ -26,8 +26,7 @@ public class App {
 				}	
 			}
 		}			
-		System.out.println("I'm a change222");
-		
+		System.out.println("I'm a change222");		
 		return pi;
 	}
 
@@ -35,7 +34,5 @@ public class App {
 		double value = pi();
 		System.out.println("Pi = " + value);
 	}
-	
-	//Commit 1
 
 }
