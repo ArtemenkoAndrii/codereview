@@ -1,5 +1,4 @@
 
-
 stage ('Create and pull main folder') {
 			git 'git@vuxdev01.ondc.screwfix.local:repos/Ansible/virtualPairstationVagrantBase.git'
 		}
