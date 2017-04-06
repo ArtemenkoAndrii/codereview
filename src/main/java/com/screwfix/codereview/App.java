@@ -35,6 +35,8 @@ public class App {
 	public static void main(String[] args) {
 		double value = pi();
 		System.out.println("Pi = " + value);
+		System.out.println("Pi = " + value);
+		System.out.println("Pi = " + value);
 	}
 
 }
