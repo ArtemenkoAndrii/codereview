@@ -27,6 +27,14 @@ public class App {
 			}
 		}
 		
+
+
+
+
+
+//some useless spaces and comment
+
+
 		
 		System.out.println("I'm a change222");		
 		return pi;
@@ -34,7 +42,6 @@ public class App {
 
 	public static void main(String[] args) {
 		double value = pi();
-		System.out.println("Pi = " + value);
 		System.out.println("Pi = " + value);
 	}
 
